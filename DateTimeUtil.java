@@ -6,9 +6,9 @@ import org.apache.commons.lang.StringUtils;
 import org.apache.commons.lang.time.DateUtils;
 
 /**
- * 时间处理帮助类。
+ * DateTimeUtil to process common date format and convertion
+ * @since 2013-07-15
  * 
- * @author John Chen Sep 12, 2009 Copyright 2009 Buzzinate Co. Ltd.
  */
 public final class DateTimeUtil {
     
